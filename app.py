@@ -9,9 +9,8 @@ import os
 # Set up the page title and layout for Streamlit app
 st.set_page_config(page_title="Resume Analysis & Job Search", layout="wide")
 
-# Set up OpenAI API key (replace with your own key)
 load_dotenv()  # Load environment variables from .env file
-openai.api_key = os.getenv("OPENAI_API_KEY")  # Get the OpenAI API key from the environment
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Function to get the response from OpenAI GPT model
 def get_openai_response(input_prompt):
