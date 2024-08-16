@@ -1,0 +1,9 @@
+thead th {
+    text-align: left !important;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+tbody td {
+    text-align: left;
+}
