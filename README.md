@@ -63,7 +63,9 @@ This project helped me understand the importance of integrating machine learning
 
 ![Screen2](./screen2.png)
 
-## 📄 About
+## 📄 Deployment
+
+The project is deployed on Render and can be accessed using the following link : https://aidi2001finalproject.onrender.com/
 
 ---
 
